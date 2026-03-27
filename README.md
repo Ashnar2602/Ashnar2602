@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Emulation and Unity games development.
 - 🌱 I’m currently learning C#, C++ and Java.
 - 💞️ I’m not looking to collaborate on anything yet, as i feel my contribution would still be more conceptual than practical.
-- 📫 How to reach me? Feel free to DM me here or write to ashnar198@gmail.com
+- 📫 How to reach me? Feel free to DM me here.
 - 😄 Pronouns: Seriously GitHub...?
 - ⚡ Fun fact: I'm no fun at all :P
 
